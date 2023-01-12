@@ -1,12 +1,12 @@
 # Introduction to DevOps
-1.	Divinisi DevOps
+## 1.	Divinisi DevOps
 Devops adalah penghubung antara tim development dengan tim operational, bertugas untuk mempercepat proses development hingga rilis produk ke public yang divisualisasikan sebagai proses loop yang tidak terbatas yang terdiri dari :
 -	Plan	-  Realese
 -	Code	-  Deploy
 -	Build	-  Operate
 -	Test	- Monitor
 
-2.	Sebutkan Lifecycle Devops dan jelaskan Definisinya
+## 2.	Sebutkan Lifecycle Devops dan jelaskan Definisinya
 
 -	Plan : Proses perencanaan untuk seluruh alur kerja yang dibutuhkan sebelum developer mengerjakan kode program dan juga mengoptimalkan dampak bisnis dan menghasilkan program yang di harapkan untuk di produk ke public.
 -	Code : Pada tahap ini team development akan mulai bekerja untuk membuat code program untuk sebuah aplikasi yang sudah direcanakan sebelumnya, pada tahap ini team Development harus berkerjasama dengan team operation agar aplikasi yang dibuat dapat berjalan dengan baik.
@@ -21,7 +21,7 @@ Devops adalah penghubung antara tim development dengan tim operational, bertugas
 
 
 
-3.	Installasi ubuntu Server menggunakan VMware
+## 3.	Installasi ubuntu Server menggunakan VMware
 
 Untuk spesifikas yang digunakan pada VMware sebagai berikut : 2 CPU 1GB ram 20GB storage lalu melakukan setup ip static dan install openSSH server
 
