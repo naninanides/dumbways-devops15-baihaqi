@@ -1,3 +1,4 @@
+# Introduction to DevOps
 1.	Divinisi DevOps
 Devops adalah penghubung antara tim development dengan tim operational, bertugas untuk mempercepat proses development hingga rilis produk ke public yang divisualisasikan sebagai proses loop yang tidak terbatas yang terdiri dari :
 -	Plan	-  Realese
