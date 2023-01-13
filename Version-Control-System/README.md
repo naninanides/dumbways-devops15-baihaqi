@@ -26,13 +26,13 @@
   
  ![image](https://user-images.githubusercontent.com/68781074/212223437-661af83c-62ea-4b7f-9f2f-d3cf6ceaddd8.png)
 
-  - maka repository kita akan terisi oleh file1 sepert pada gambar
+  - maka repository kita akan terisi oleh file1 seperti pada gambar
   
   ![image](https://user-images.githubusercontent.com/68781074/212223504-5616a2bd-92e0-41f5-a76e-cbf101adc897.png)
 
 ## 3. Hubungkan ssh public key ke akun github
 
-  - langkah pertama kita bisa melakukan perinta
+  - langkah pertama kita bisa melakukan perintah
   > ssh-keygen
 
 ![image](https://user-images.githubusercontent.com/68781074/212227337-7e5bc276-bf58-4bf8-ad1f-7fd98d34e8fe.png)
@@ -66,7 +66,7 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/212228496-e13e02fc-2ea7-4d9d-8a30-1ba9ea6b9643.png)
 
-  - untuk mengaktifkannya di terminal kita lalukan perinta
+  - untuk mengaktifkannya di terminal kita lalukan perintah
    > ssh -i ~/keygen -T git@github.com
 
 ![image](https://user-images.githubusercontent.com/68781074/212228665-667d7771-b9c6-4b03-902a-9c929331f257.png)
