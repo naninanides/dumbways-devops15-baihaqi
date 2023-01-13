@@ -23,7 +23,7 @@ Devops adalah penghubung antara tim development dengan tim operational, bertugas
 
 ## 3.	Installasi ubuntu Server menggunakan VMware
 
-Untuk spesifikas yang digunakan pada VMware sebagai berikut : 2 CPU 1GB ram 20GB storage lalu melakukan setup ip static dan install openSSH server
+Untuk spesifikas yang digunakan pada VMware sebagai berikut : 2 CPU 2GB ram 20GB storage lalu melakukan setup ip static dan install openSSH server
 
 -	Software yang digunakan bisa menggunakan VMware, virtualbox, atau QEMU, disini saya menggunakan VMware
 -	Open Aplikasi VMware yang sudah terinstall
