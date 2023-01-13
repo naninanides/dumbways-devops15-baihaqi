@@ -58,7 +58,7 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/212228210-b2f67f78-8341-4fe5-bc31-01b268ed2f7e.png)
 
-  - nah kita ini key ini menggunakan ssd yang sudah kita buat tadi di terminal
+  - nah kita isi key ini menggunakan ssh publick key yang sudah kita buat tadi di terminal
 
 ![image](https://user-images.githubusercontent.com/68781074/212228296-030af78e-5ac6-47bd-9632-fe1f6ab5aef2.png)
 
