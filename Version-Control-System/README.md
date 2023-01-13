@@ -1,9 +1,9 @@
 # Version Control System
 
-1.  Jelaskan definisi distributed revision control! 
-    - adalah sebuah tools yang digunakan untuk memanajemen perubahan dari code. Tools ini dapat membantu developer untuk mentracking setiap perubahan yang dilakukan      secara terus-menerus. VCS pada dasarnya memiliki database terpusat yang bersifat online, jika ingin menggunakanya maka harus terhubung dengan jaringan.
+## 1.  Jelaskan definisi distributed revision control! 
+   - adalah sebuah tools yang digunakan untuk memanajemen perubahan dari code. Tools ini dapat membantu developer untuk mentracking setiap perubahan yang dilakukan            secara terus-menerus. pada dasarnya memiliki database terpusat yang bersifat online, jika ingin menggunakanya maka harus terhubung dengan jaringan.
 
-2. Buat repository untuk tugas kalian di github
+## 2. Buat repository untuk tugas kalian di github
   - untuk pertama login dahulu kedalam akun git, lalu bisa di arahkan kursor ke arah menu (+) nanti di situ akan ada pilihan  new repository 
 
 ![image](https://user-images.githubusercontent.com/68781074/212219936-e04cdc01-d268-46b5-bb46-d458acecc651.png)
