@@ -70,3 +70,56 @@
    > ssh -i ~/keygen -T git@github.com
 
 ![image](https://user-images.githubusercontent.com/68781074/212228665-667d7771-b9c6-4b03-902a-9c929331f257.png)
+
+## 4. Clone repository dumbflix-frontend & buat 3 branch
+
+  -  langkah yang pertama kita buka repository yang akan kita clone
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212247582-7c25c11a-cdd6-4088-bc81-0fb2bcd3787a.png)
+
+  - lalu kita ambil code httpsnya untuk kita clone
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212247635-2cad575f-5f9e-4640-8ef1-16ca23ae7771.png)
+
+  - lalu kita clone repository tersebut lewat terminal dengan perintah 
+   > git clone https://github.com/dumbwaysdev/dumbflix-frontend.git
+   
+   ![image](https://user-images.githubusercontent.com/68781074/212247812-14320039-71e2-4b15-ad64-f8887cd2c9f3.png)
+
+  - lalu kita samakan apakah isi dari repositorynya sudah sama atau belum
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212247936-b72c2629-5714-4796-b965-81ccf54fd44a.png)
+
+  ![image](https://user-images.githubusercontent.com/68781074/212247944-a5472734-f008-406b-a30a-ef21c66a9200.png)
+
+  - kalau kita ingin mencoba push ke repository yang sudah kita miliki, maka kita harus meremotenya terlebih dahulu
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212248080-87ec37c8-9c76-41db-8976-cf18faefbfef.png)
+  - kalau masih berupa https kita akan rubah terlebih dahulu ke ssh, karena kalau masih berupa link https kita tidak akan bisa melakukan push
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212248280-326d4ae6-f39b-4555-a048-de6c0132b813.png)
+
+  - maka dari itu kita rubah terlebih dahulu ke ssh
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212248457-58e7ae6e-099f-4d46-b001-cca79f53c8a4.png)
+
+  - nah kalau kita ingin mempush isi dari repository yang sudah kita clone, kita membuat repository baru terlebih dahulu lalu kita ubah remotenya menjadi ssh milik         repository yang baru kita buat
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212250707-4170310e-e020-4700-ae42-4ac042364f79.png)
+
+  ![image](https://user-images.githubusercontent.com/68781074/212250800-a75cdd21-bbf1-4daf-9088-d107a33c937b.png)
+  
+  - selanjutkan kita tinggal melakukan push ke dalam repository yang sudah kita buat tadi
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212250866-ad0f23e1-dc7f-4980-8c29-8c5427513188.png)
+
+  - done kit sudah melakukan clone repository
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212250915-b6462a8d-b127-408f-8191-7a5c1b5ba905.png)
+
+  
+  - kita juga bisa membuat beberapa 3 branch baru menggunakan perintah
+  > git branch (nama yang diinginkan)
+  
+  ![image](https://user-images.githubusercontent.com/68781074/212249389-59539ab9-7f86-4b92-8ebb-ee4759d25b8f.png)
+
