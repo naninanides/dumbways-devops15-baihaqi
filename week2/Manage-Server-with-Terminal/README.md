@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/68781074/212644753-ef3c42b3-55b2-433a-bc1b-9847dac691ac.png)
 
 ### 3.  BASH script untuk memberi akses ke port 22,80,443
-- pertama kita akan membuat sebuah BASH sripnya terlebih dahulu untuk memberikan akses firewall ke port 22,80, dan 443 juga saya menambahkan firewall untuk akses nginx
+- pertama kita akan membuat sebuah BASH sripnya terlebih dahulu untuk memberikan akses firewall ke port 22,80, dan 443 juga saya menambahkan akses untuk nginx
 
 ![image](https://user-images.githubusercontent.com/68781074/212647194-02de8260-562d-429f-a76f-dff6d93370ee.png)
 
