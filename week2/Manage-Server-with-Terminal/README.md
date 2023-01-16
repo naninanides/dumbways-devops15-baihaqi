@@ -38,3 +38,59 @@
 ![image](https://user-images.githubusercontent.com/68781074/212648302-5527fe7f-6c1d-47df-bf16-cd1a0ae10a74.png)
 
 ![image](https://user-images.githubusercontent.com/68781074/212648550-4f37dd89-bfc1-4300-8656-0725ac75ec84.png)
+
+## 4. Text Manipulator (Cat,Grep,Echo & Sort)
+
+-penggunaan Cat untuk melihat isi dari suatu file
+
+![image](https://user-images.githubusercontent.com/68781074/212680384-6a876006-f0c2-4edd-8ab1-520031cd9fe4.png)
+
+- adapun perintah Cat > (nama file) berfungsi untuk mengganti isi dari file tersebut tanpa menggunakan teks editor
+
+![image](https://user-images.githubusercontent.com/68781074/212681138-9301404a-7d21-4547-868e-1fa280d3a0f4.png)
+
+- ataupun untuk menambahkan sebuah teks kedalam file
+
+![image](https://user-images.githubusercontent.com/68781074/212681361-3ea3fdb0-fcdc-406f-952d-b8353b34a3f4.png)
+
+- lalu Fungsi Cat juga bisa digunakan untuk menggabungkan dari 2 file menjadi 1 file baru
+
+![image](https://user-images.githubusercontent.com/68781074/212681504-ebdc6d98-8701-4021-b36f-e7306921bed8.png)
+
+- Fungsi Grep digunakan untuk mencari suatu teks di dalam suatu file yang telah dibuat
+
+![image](https://user-images.githubusercontent.com/68781074/212682138-81094561-d865-4e33-bfaa-f5a8e3d71030.png)
+
+- dan jika fungsi grep di tambahkan dengan -c maka dia akan menghitung ada berapa kata yang terdapat dalam satu file
+
+![image](https://user-images.githubusercontent.com/68781074/212682342-511e2537-7afc-4469-8f9b-6ea1b9f91e7f.png)
+
+-  Lalu ada juga fungsi grep yang ditambahkan dengan * maka dia akan mencari semua file yang berisikan kata yang terdepat di teks
+
+![image](https://user-images.githubusercontent.com/68781074/212682726-e3032ccf-d655-4c0f-a5b7-629c0d8cfe35.png)
+
+- Lalu ada fungsi Echo, dimana perintah ini digunakan untuk mencetak teks kedalam terminal
+
+![image](https://user-images.githubusercontent.com/68781074/212683323-38b8fb56-77ba-4872-ab0e-82c484f3da26.png)
+
+- Fungsi echo juga dapat digunakan untuk mereplace teks yang ada didalam suatu file
+
+![image](https://user-images.githubusercontent.com/68781074/212683789-5dcf14fd-74eb-4e57-a753-e54da9c87224.png)
+
+- Lalu fungsi echo juga dapat digunakan untuk mmenyisipkan teks kedalam file
+
+![image](https://user-images.githubusercontent.com/68781074/212684092-d8ca8782-e201-40a8-b3ca-4e7a18046f6d.png)
+
+- Fungsi Sort digunakan untuk mengurutkan dari bilangan terkecil
+
+![image](https://user-images.githubusercontent.com/68781074/212684609-5db53837-a9f9-4722-86ea-2e3cb3e5a27f.png)
+
+- dan jika kita ingin membalik urutannya dari yang paling besar kita cukup menyisipkan fungsi -r saja
+
+![image](https://user-images.githubusercontent.com/68781074/212684698-2dd21dca-37fd-441d-b4cb-7639ecbc24d2.png)
+
+
+- Jika ingin mengganti kata dumbways menjad bootcamp dalam suatu file kita dapat menggunakan perintad sed -i 's/dumbways/bootcamp/g' file1
+
+![image](https://user-images.githubusercontent.com/68781074/212685401-4b8fa926-a515-4de1-97d9-55c254f8aaf0.png)
+
