@@ -6,11 +6,11 @@
 ### 2. Bash Scrip untuk update dan upgrade server lalu install aplikasi NGINX
 - Untuk melakukan update dan upgrade menggunakan scrip BASH yang pertama kita lakukan adalah membuat file dengan format .sh dan juga scrip yang akan kita buat nanti menggunakan nano, kira-kira scripnya akan seperti ini.
 
-![image](https://user-images.githubusercontent.com/68781074/212644624-9498617e-c587-45da-957f-95f2b1a0be66.png)
+![image](https://user-images.githubusercontent.com/68781074/212679596-f295086d-2284-43e4-a263-28d764d1538a.png)
 
 - Lalu setelah itu kita save saja filenya, dan tinggal dijalankan saja scrip BASH yang sudah kita buat tadi
 
-![image](https://user-images.githubusercontent.com/68781074/212644753-ef3c42b3-55b2-433a-bc1b-9847dac691ac.png)
+![image](https://user-images.githubusercontent.com/68781074/212679804-0d18a8e5-8416-40bf-8a56-917f7e24ab5b.png)
 
 ### 3.  BASH script untuk memberi akses ke port 22,80,443
 - pertama kita akan membuat sebuah BASH sripnya terlebih dahulu untuk memberikan akses firewall ke port 22,80, dan 443 juga saya menambahkan akses untuk nginx
