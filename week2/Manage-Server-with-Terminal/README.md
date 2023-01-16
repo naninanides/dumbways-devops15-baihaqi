@@ -1,7 +1,7 @@
 # Manage Server with Terminal
 
 ### 1. Apa itu terminal
-- terminal adalah sebuah command promt atau shell yang dapat kita gunakan untuk membuat suatu file, membuat folder, bahkan membuat ataupun mengubah akses yang             berbasis sebuah teks dan belum menjadi sebuah GUI (graphical unit interface)
+- terminal adalah sebuah command promt atau shell yang dapat kita gunakan untuk membuat suatu file, membuat folder, bahkan membuat ataupun mengubah akses yang berbasis sebuah teks dan belum menjadi sebuah GUI (graphical unit interface)
 
 ### 2. Bash Scrip untuk update dan upgrade server lalu install aplikasi NGINX
 - Untuk melakukan update dan upgrade menggunakan scrip BASH yang pertama kita lakukan adalah membuat file dengan format .sh dan juga scrip yang akan kita buat nanti menggunakan nano, kira-kira scripnya akan seperti ini.
