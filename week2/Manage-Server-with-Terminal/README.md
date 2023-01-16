@@ -121,7 +121,7 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/212688602-9171bfc4-5c5d-4cca-982c-b93a50dde725.png)
 
-6. Challenge Install Node version manager menggunakan scrip bash
+## 6. Challenge Install Node version manager menggunakan scrip bash
 
 - menggunakan teks editor nano untuk membuat scrip bash installing nvm
 
