@@ -1,0 +1,8 @@
+Version Control System
+
+Task :
+1. Jelaskan definisi distributed revision control!
+2. Buat repository untuk tugas kalian di github
+Format : dumbways-devops15-<nama kalian>
+3. Hubungkan ssh public key ke akun github
+4. Clone repository dumbflix-frontend & buat 3 branch (Development, Staging & Production)
