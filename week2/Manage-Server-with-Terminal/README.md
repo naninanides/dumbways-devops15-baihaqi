@@ -94,3 +94,29 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/212685401-4b8fa926-a515-4de1-97d9-55c254f8aaf0.png)
 
+## 5. Menggunakan NMON untuk tampilan CPU usage, RAM usage, Disk dan Resources OS & Proc
+
+- pada terminal kita bisa langsung melakukan perintah nmon, dan jika nmon belum terinstall kita dapat menginstall menggunakan perintah sudo apt install nmon
+
+![image](https://user-images.githubusercontent.com/68781074/212687091-d657d739-6c35-461a-9430-8b5b8eb4ff01.png)
+
+- lalu jika sudah terinstal kita tinggal memasukan perintah nmon kedalam terminal, maka tampilan awalnya akan seperti ini
+
+![image](https://user-images.githubusercontent.com/68781074/212687193-4c06d985-fea8-48a1-bf6c-7b89f7ddb357.png)
+
+- karena kita ingin melihat tampilan CPU usage, RAM usage, Disk dan Resources OS & Proc maka kita tinggal memasukan perintah yang sudah di perlihatkan pada tampilan awal dari nmon tersebut:
+- C untuk melihat CPU usage
+
+![image](https://user-images.githubusercontent.com/68781074/212688199-5d09703c-bc63-4748-8efc-e18a700ba6c3.png)
+
+- M untuk melihat Memory Usage atau RAM Usage
+
+![image](https://user-images.githubusercontent.com/68781074/212688329-54ea4b3e-ff45-4298-a27b-05fae7b6f868.png)
+
+- D untuk melihat Disk Usage
+
+![image](https://user-images.githubusercontent.com/68781074/212688454-a08f3fcb-80da-4c23-9f9c-0224e8401a69.png)
+
+- dan untuk melihat Resource yang digunakan dapat menggunakan command R
+
+![image](https://user-images.githubusercontent.com/68781074/212688602-9171bfc4-5c5d-4cca-982c-b93a50dde725.png)
