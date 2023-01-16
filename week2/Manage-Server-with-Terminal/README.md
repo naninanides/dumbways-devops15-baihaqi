@@ -4,7 +4,7 @@
 - terminal adalah sebuah command promt atau shell yang dapat kita gunakan untuk membuat suatu file, membuat folder, bahkan membuat ataupun mengubah akses yang             berbasis sebuah teks dan belum menjadi sebuah GUI (graphical unit interface)
 
 ### 2. Bash Scrip untuk update dan upgrade server lalu install aplikasi NGINX
-- Untuk melakukan update dan upgrade menggunakan scrip BASH yang pertama kita lakukan adalah membuat file dengan format .sh dan juga scrip yang akan dijalankan nanti menggunakan nano, kira" scripnya akan seperti ini.
+- Untuk melakukan update dan upgrade menggunakan scrip BASH yang pertama kita lakukan adalah membuat file dengan format .sh dan juga scrip yang akan kita buat nanti menggunakan nano, kira-kira scripnya akan seperti ini.
 
 ![image](https://user-images.githubusercontent.com/68781074/212644624-9498617e-c587-45da-957f-95f2b1a0be66.png)
 
