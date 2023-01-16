@@ -120,3 +120,15 @@
 - dan untuk melihat Resource yang digunakan dapat menggunakan command R
 
 ![image](https://user-images.githubusercontent.com/68781074/212688602-9171bfc4-5c5d-4cca-982c-b93a50dde725.png)
+
+6. Challenge Install Node version manager menggunakan scrip bash
+
+- menggunakan teks editor nano untuk membuat scrip bash installing nvm
+
+![image](https://user-images.githubusercontent.com/68781074/212720404-af53f1e3-0d94-4134-8f76-0bab1f7b3bd2.png)
+
+- lalu setelah itu kita jalankan scrip yang sudah dibuat untuk menginstall nvm
+
+![image](https://user-images.githubusercontent.com/68781074/212720546-41a10fb8-c2dc-46a4-bc5d-38f323f22dee.png)
+
+- 
