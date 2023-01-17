@@ -9,3 +9,4 @@
 
 ## Week2
 1. [Manage Server With Terminal](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week2/Manage-Server-with-Terminal)
+2. [Web server and Load Balancer](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week2/Web-Server-And-Load-Balancing)
