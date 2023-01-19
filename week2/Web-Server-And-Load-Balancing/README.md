@@ -99,3 +99,6 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/213385979-378903a3-e73c-4df6-8316-e45d588f64f0.png)
 
+- edit file host pada C:\Windows\System32\drivers\etc
+
+![image](https://user-images.githubusercontent.com/68781074/213387301-f4a3434e-5bb8-4b48-9b98-2f3ab1d2a35b.png)
