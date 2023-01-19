@@ -94,5 +94,6 @@
 
 - kita bisa mengecek apakah load balancer sudah berjalan atau tidak dengan menjalankan aplikasi nodejs
 
+![image](https://user-images.githubusercontent.com/68781074/213383761-8869e59f-235d-4c65-aa16-f9c085769654.png)
 
-
+- 
