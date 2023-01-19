@@ -90,9 +90,9 @@
 
 - kita bisa mengecek apakah load balancer sudah berjalan atau tidak dengan menjalankan aplikasi nodejs
 
-![image](https://user-images.githubusercontent.com/68781074/213386471-54385f4f-e4b0-4245-84b6-17b6d409942a.png)
+![image](https://user-images.githubusercontent.com/68781074/213386878-f35816ff-3fc1-4aa8-a17c-5ab069794b39.png)
 
-![image](https://user-images.githubusercontent.com/68781074/213386567-8ef5a1fe-f7f9-443a-8c13-c6a8c882683c.png)
+![image](https://user-images.githubusercontent.com/68781074/213386765-71881442-9856-4ca1-a871-bd43cc62f8a9.png)
 
 
 ### 5. . Domain bisa diakses melalui web browser kalian
