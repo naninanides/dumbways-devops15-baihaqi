@@ -22,3 +22,28 @@
 - lalu kita tinggal buka di web browser menggunakan IP dan port dari nodejs
 
 ![image](https://user-images.githubusercontent.com/68781074/213360048-c29daffa-e422-4582-b838-62f3fc25ff72.png)
+
+### - untuk challange menjalankan aplikasi dengan pm2
+
+- terlebih dahulu kita install pm2 di folder dumbflix-frontend global dengan perintah
+> npm install pm2 --location=global 
+
+![image](https://user-images.githubusercontent.com/68781074/213360803-233b725f-6e5e-4b87-b994-1dcabbc1ebb6.png)
+
+- setelah terinstall kita bisa menjalankan aplikasi dumbflix-frontend menggunakan pm2
+
+![image](https://user-images.githubusercontent.com/68781074/213360877-d04fd55a-6f71-4963-87c4-869af0c65a2b.png)
+
+![image](https://user-images.githubusercontent.com/68781074/213360920-d1ceade1-babf-44d3-afb8-58292f1e07af.png)
+
+#### VM 2 : Jalankan NGINX di server baru dan buat reverse proxy dengan 
+
+- langkah pertama tentu kita akan menginstall terlebih dahulu nginx kalau belum ada pada server
+
+![image](https://user-images.githubusercontent.com/68781074/213361120-088b2474-af8a-4993-af40-0ffdf8fd21d1.png)
+
+- jika sudah terinstall langsung dapat di jalankan pada web browser menggunakan IP server
+
+![image](https://user-images.githubusercontent.com/68781074/213361171-f0f61d9b-044c-4193-b647-a29dd5080c62.png)
+
+- 
