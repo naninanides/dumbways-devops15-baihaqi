@@ -47,36 +47,32 @@
 ![image](https://user-images.githubusercontent.com/68781074/213361171-f0f61d9b-044c-4193-b647-a29dd5080c62.png)
 
 ### - buat konfigurasi reverse proxy menggunakan domain yang mengarah ke aplikasi pada VM 1
-- langkah pertama kita masuk ke dalam folder nginx
+- langkah pertama kita masuk ke dalam folder nginx lalu kita buat directory dumbways
 
-![image](https://user-images.githubusercontent.com/68781074/213365887-1eaa0a34-bc48-42d6-beeb-13fcd9063a9d.png)
-
-- lalu kita buat folder terlebih dahulu
-
-![image](https://user-images.githubusercontent.com/68781074/213365996-a68686dd-0d00-45a7-a1c7-ac0e2e4ce7f0.png)
+![image](https://user-images.githubusercontent.com/68781074/213384938-6ad52aff-c489-475c-9136-5f878ea4385e.png)
 
 - setelah itu kita masuk kedalam folder yang sudah kita buat dan membuat file conf untuk reverse proxy dengan memasukan konfigurasi sebagai berikut dan IP yang digunakan adalah IP server dan menggunakan port 3000 karena kita akan menjalankan menggunakan nodejs
 
-![image](https://user-images.githubusercontent.com/68781074/213366227-95ec91bf-0845-4a77-badd-35f26176a15e.png)
+![image](https://user-images.githubusercontent.com/68781074/213385214-92016234-f365-4866-aaa5-bd5bcbcf6d69.png)
 
 - lalu kita keluar dari folder dumbways, lalu kita mengedit file nginx.conf
 
-![image](https://user-images.githubusercontent.com/68781074/213362670-ba333353-f8bc-450b-bc5b-0a12bf7ffb00.png)
+![image](https://user-images.githubusercontent.com/68781074/213385377-738091b2-50b1-47eb-9590-e1b858bcdf01.png)
 
 - disini kita menambahkan folder dari reverse proxy yang sudah kita buat tadi
 - lalu kita cek apakah sudah berjalan konfigurasi yang sudah kita buat tadi
 
-![image](https://user-images.githubusercontent.com/68781074/213366351-7e595e29-9ac0-4a40-8eb0-ced697fe56e2.png)
+![image](https://user-images.githubusercontent.com/68781074/213385488-17768a0f-7903-4d3f-9e91-0f8bdf1b7cd5.png)
 
 - lalu karena kita akan menjalankan domain di lokal kita perlu memasukan IP kita kedalam konfigurasi yang terdapat di folder C:\Windows\System32\drivers\etc (untuk Windows)
 ![image](https://user-images.githubusercontent.com/68781074/213364110-dfdd03db-1498-493c-8c26-7f2a9de226cd.png)
 
-![image](https://user-images.githubusercontent.com/68781074/213365288-266b2281-fc80-4ef1-8dcc-1f44f581815b.png)
+![image](https://user-images.githubusercontent.com/68781074/213385553-f51a99f6-14ff-4fb2-a6c4-67f01b784371.png)
 
 - lalu kita save saja
 - setelah itu kita reload nginx terlebih dahulu
 
-![image](https://user-images.githubusercontent.com/68781074/213366440-eb762082-fd48-46be-b4e0-4c2fa88ba780.png)
+![image](https://user-images.githubusercontent.com/68781074/213385677-08f0b24f-ba40-4c21-8cd2-3d9d3ce5adf9.png)
  
 - lalu kita bisa kita cek di web browser menggunakan domain yang sudah kita buat tadi
 
@@ -94,6 +90,12 @@
 
 - kita bisa mengecek apakah load balancer sudah berjalan atau tidak dengan menjalankan aplikasi nodejs
 
-![image](https://user-images.githubusercontent.com/68781074/213383761-8869e59f-235d-4c65-aa16-f9c085769654.png)
+![image](https://user-images.githubusercontent.com/68781074/213386471-54385f4f-e4b0-4245-84b6-17b6d409942a.png)
 
-- 
+![image](https://user-images.githubusercontent.com/68781074/213386567-8ef5a1fe-f7f9-443a-8c13-c6a8c882683c.png)
+
+
+### 5. . Domain bisa diakses melalui web browser kalian
+
+![image](https://user-images.githubusercontent.com/68781074/213385979-378903a3-e73c-4df6-8316-e45d588f64f0.png)
+
