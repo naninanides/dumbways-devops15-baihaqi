@@ -81,3 +81,18 @@
 - lalu kita bisa kita cek di web browser menggunakan domain yang sudah kita buat tadi
 
 ![image](https://user-images.githubusercontent.com/68781074/213366636-88ee1c17-963a-4134-b813-dd1708f4d456.png)
+
+- untuk membuat konfigurasi load balancer, kita bisa mengedit file bhq-rproxy.conf
+
+![image](https://user-images.githubusercontent.com/68781074/213368622-f4270ca1-958b-4548-b5ba-a3ee2ebc599a.png)
+
+- lalu jangan lupa untuk di restart/reload nginxnya dan di cek juga statusnya
+
+![image](https://user-images.githubusercontent.com/68781074/213369049-2e46eef9-e3be-4a3c-9ef9-2d570b5ec3d0.png)
+
+![image](https://user-images.githubusercontent.com/68781074/213369096-3b803816-23e4-4812-8c93-08d428720065.png)
+
+- kita bisa mengecek apakah load balancer sudah berjalan atau tidak dengan menjalankan aplikasi nodejs
+
+
+
