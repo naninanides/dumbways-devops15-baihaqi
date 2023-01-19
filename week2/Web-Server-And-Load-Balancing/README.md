@@ -46,4 +46,38 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/213361171-f0f61d9b-044c-4193-b647-a29dd5080c62.png)
 
-- 
+### - buat konfigurasi reverse proxy menggunakan domain yang mengarah ke aplikasi pada VM 1
+- langkah pertama kita masuk ke dalam folder nginx
+
+![image](https://user-images.githubusercontent.com/68781074/213365887-1eaa0a34-bc48-42d6-beeb-13fcd9063a9d.png)
+
+- lalu kita buat folder terlebih dahulu
+
+![image](https://user-images.githubusercontent.com/68781074/213365996-a68686dd-0d00-45a7-a1c7-ac0e2e4ce7f0.png)
+
+- setelah itu kita masuk kedalam folder yang sudah kita buat dan membuat file conf untuk reverse proxy dengan memasukan konfigurasi sebagai berikut dan IP yang digunakan adalah IP server dan menggunakan port 3000 karena kita akan menjalankan menggunakan nodejs
+
+![image](https://user-images.githubusercontent.com/68781074/213366227-95ec91bf-0845-4a77-badd-35f26176a15e.png)
+
+- lalu kita keluar dari folder dumbways, lalu kita mengedit file nginx.conf
+
+![image](https://user-images.githubusercontent.com/68781074/213362670-ba333353-f8bc-450b-bc5b-0a12bf7ffb00.png)
+
+- disini kita menambahkan folder dari reverse proxy yang sudah kita buat tadi
+- lalu kita cek apakah sudah berjalan konfigurasi yang sudah kita buat tadi
+
+![image](https://user-images.githubusercontent.com/68781074/213366351-7e595e29-9ac0-4a40-8eb0-ced697fe56e2.png)
+
+- lalu karena kita akan menjalankan domain di lokal kita perlu memasukan IP kita kedalam konfigurasi yang terdapat di folder C:\Windows\System32\drivers\etc (untuk Windows)
+![image](https://user-images.githubusercontent.com/68781074/213364110-dfdd03db-1498-493c-8c26-7f2a9de226cd.png)
+
+![image](https://user-images.githubusercontent.com/68781074/213365288-266b2281-fc80-4ef1-8dcc-1f44f581815b.png)
+
+- lalu kita save saja
+- setelah itu kita reload nginx terlebih dahulu
+
+![image](https://user-images.githubusercontent.com/68781074/213366440-eb762082-fd48-46be-b4e0-4c2fa88ba780.png)
+ 
+- lalu kita bisa kita cek di web browser menggunakan domain yang sudah kita buat tadi
+
+![image](https://user-images.githubusercontent.com/68781074/213366636-88ee1c17-963a-4134-b813-dd1708f4d456.png)
