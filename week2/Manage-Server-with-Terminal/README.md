@@ -121,14 +121,27 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/212688602-9171bfc4-5c5d-4cca-982c-b93a50dde725.png)
 
-## 6. Challenge Install Node version manager menggunakan scrip bash
+## 6. Challenge Install Node version manager menggunakan scrip bash dan jalankan node dengan kondisi ufw unable
 
 - menggunakan teks editor nano untuk membuat scrip bash installing nvm
 
-![image](https://user-images.githubusercontent.com/68781074/212720404-af53f1e3-0d94-4134-8f76-0bab1f7b3bd2.png)
+![image](https://user-images.githubusercontent.com/68781074/213597983-8e89385a-9212-499f-84f4-d97c6b23929a.png)
 
 - lalu setelah itu kita jalankan scrip yang sudah dibuat untuk menginstall nvm
 
-![image](https://user-images.githubusercontent.com/68781074/212720546-41a10fb8-c2dc-46a4-bc5d-38f323f22dee.png)
+![image](https://user-images.githubusercontent.com/68781074/213598036-c1234c7a-ddd3-46dd-839a-02e6563b5ef6.png)
 
-- 
+- selanjutnya jika ingin memberikan akses firewall ke dalam server, kita cukup menggunakan perintah sebagai berikut
+
+![image](https://user-images.githubusercontent.com/68781074/213598234-c8f47b00-7ff8-4d99-ae49-6d8b53c14c3e.png)
+
+- kita disini memberikan akses port dari nodejs dan juga python itulah kenapa kita memasukan port 3000 dan juga 5000
+
+![image](https://user-images.githubusercontent.com/68781074/213598387-96b326e7-9d08-4e36-b8ee-2ea32d9367ba.png)
+
+![image](https://user-images.githubusercontent.com/68781074/213598404-dcd8b458-f6c5-469d-b3d1-ef0982f16a39.png)
+
+- untuk mengetesnya kita dapat menjalankan aplikasi nodejs di browser kita
+
+![image](https://user-images.githubusercontent.com/68781074/213598468-443b9ec0-3454-4ee1-99e0-b828f02ab009.png)
+
