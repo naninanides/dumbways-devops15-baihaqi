@@ -28,4 +28,22 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/215787335-e2eaf982-a0e0-4746-8469-233f7a02ecae.png)
 
-5. 
+5. lalu masukan command npm install di dalam folder wayshub-frontend
+
+![image](https://user-images.githubusercontent.com/68781074/215789042-a5d24c97-5a82-455b-b4c8-e3820c7340ef.png)
+
+![image](https://user-images.githubusercontent.com/68781074/215789127-51ba4914-d504-4e84-9199-a500df7d735c.png)
+
+6. aplikasi waysub-frontend sudah dapat dijalankan
+
+![image](https://user-images.githubusercontent.com/68781074/215789595-405809d5-d6d7-412c-a143-48ce2d68cf25.png)
+
+7. untuk jalankan pm2 kita bisa menginstallnya setelah itu
+
+![image](https://user-images.githubusercontent.com/68781074/215791394-b19987b9-b53c-4f93-9914-40b66dd8392c.png)
+
+8. setelah itu lakukan npm run build terlebih dahulu untuk membuild packed dari wayshub-frontend
+
+![image](https://user-images.githubusercontent.com/68781074/215791756-081fc2c1-a036-4e9d-9c11-e8c0121c8869.png)
+
+9. 
