@@ -46,4 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/215791756-081fc2c1-a036-4e9d-9c11-e8c0121c8869.png)
 
-9. 
+9. aplikasi wayshub-frontend sudah berjalan di pm2
+
+![image](https://user-images.githubusercontent.com/68781074/215793284-f0ae7b19-6211-4c05-ae96-db12fabaf189.png)
+
