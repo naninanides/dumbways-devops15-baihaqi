@@ -50,3 +50,8 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/215793284-f0ae7b19-6211-4c05-ae96-db12fabaf189.png)
 
+## gateway - 1 CPU, 1GB RAM, 20GB Storage
+
+![image](https://user-images.githubusercontent.com/68781074/215793924-1f931e53-b6d3-4604-b275-08440bb01a28.png)
+![image](https://user-images.githubusercontent.com/68781074/215793840-c4767894-afcb-4c2c-89a8-8b202fe8b0a4.png)
+
