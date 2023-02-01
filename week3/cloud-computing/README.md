@@ -55,3 +55,27 @@
 ![image](https://user-images.githubusercontent.com/68781074/215793924-1f931e53-b6d3-4604-b275-08440bb01a28.png)
 ![image](https://user-images.githubusercontent.com/68781074/215793840-c4767894-afcb-4c2c-89a8-8b202fe8b0a4.png)
 
+1. seperti sebelumnya kita harus melakukan update terlebih dahulu lalu menginstall aplikasi seperti nginx, nodejs, dan git selanjutnya mengclone repository wayshub-frontned
+
+![image](https://user-images.githubusercontent.com/68781074/216031653-103a1bbd-9f63-4dab-a536-398ea37e44a1.png)
+
+![image](https://user-images.githubusercontent.com/68781074/216031875-406492f3-c4ca-45b7-aba9-e190482cd2c6.png)
+
+2. setting reverse proxy dan lakukan pengecekan konfigurasi dari nginx dan setelah itu di restart nginx
+ 
+![image](https://user-images.githubusercontent.com/68781074/216032077-3648b1e3-04ba-47ea-9a59-d199dbf087df.png)
+
+![image](https://user-images.githubusercontent.com/68781074/216032127-e1e73766-51aa-4331-9c85-e4a6527d7bf8.png)
+
+![image](https://user-images.githubusercontent.com/68781074/216032584-7463253b-8d6e-4553-a386-2026f4351e47.png)
+
+3. lalu setelah itu menambahkan ip kedalam hosts
+
+![image](https://user-images.githubusercontent.com/68781074/216032745-4068314c-933e-4ec4-81bf-879de4453ecc.png)
+
+4. karena belum mendapatkan akses ke cloudflare maka di sini saya hanya akan melakukan curl di dalam terminal dengan hasil seperti ini
+
+![image](https://user-images.githubusercontent.com/68781074/216033589-9959a0ea-57c5-4cb1-a905-f3d86148a288.png)
+
+## Challenge : Firewall enable
+
