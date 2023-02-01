@@ -79,3 +79,17 @@
 
 ## Challenge : Firewall enable
 
+1. pertama pastikan dahulu apakah firewall sudah berjalan atau belum
+
+![image](https://user-images.githubusercontent.com/68781074/216036481-00b5f489-b022-416d-b72b-0bc4e35c8446.png)
+
+2. lalu untuk mempercepat saya membuat bash scrip untuk membuka firewall ke port 22, 80, 443, 3000 dan 5000
+
+![image](https://user-images.githubusercontent.com/68781074/216036741-b54efd86-c2d5-4560-9c2d-ef29b44b5b8f.png)
+
+3. lalu jalankan saja bash scrip yang sudah kita buat tadi dan bisa di cek menggunakan command sudo ufw verbose
+
+![image](https://user-images.githubusercontent.com/68781074/216037718-2a3ff7da-b426-4bab-aab4-9dbdf177d922.png)
+
+
+
