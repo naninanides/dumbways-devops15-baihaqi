@@ -13,4 +13,4 @@
 
 ## Week3
 1. [Cloud Computing](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week3/cloud-computing)
-2. [Manage Datanbase With Backend](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week3/Manage-Database-With-Backend)
+2. [Manage Database With Backend](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week3/Manage-Database-With-Backend)
