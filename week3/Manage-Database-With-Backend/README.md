@@ -63,4 +63,14 @@ dan dapat juga di cek di dalam mysql database
 
 ![image](https://user-images.githubusercontent.com/68781074/216349171-e2f1a2f5-2399-4e1d-a6f9-74dd128b6919.png)
 
+menjalankan frontend dan backend menggunakan pm2
 
+![image](https://user-images.githubusercontent.com/68781074/216371740-a72f874f-02eb-4398-b4a1-82d8083c1e2f.png)
+
+![image](https://user-images.githubusercontent.com/68781074/216381875-052f134f-671f-4016-9d5e-ad3da3a7dbd6.png)
+
+![image](https://user-images.githubusercontent.com/68781074/216382063-ccf3b97f-c1ed-460f-ba7a-8da00d5f35c0.png)
+
+![image](https://user-images.githubusercontent.com/68781074/216382157-444ff90e-80e7-4c36-85ac-11feab250b39.png)
+
+![image](https://user-images.githubusercontent.com/68781074/216382212-15fdc20a-5086-4d1e-884e-2f2738fa3e52.png)
