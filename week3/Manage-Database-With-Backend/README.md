@@ -74,3 +74,8 @@ menjalankan frontend dan backend menggunakan pm2
 ![image](https://user-images.githubusercontent.com/68781074/216382157-444ff90e-80e7-4c36-85ac-11feab250b39.png)
 
 ![image](https://user-images.githubusercontent.com/68781074/216382212-15fdc20a-5086-4d1e-884e-2f2738fa3e52.png)
+
+
+menggunakan api
+
+![image](https://user-images.githubusercontent.com/68781074/216386807-429ac026-fca4-42fb-a19e-87a154fdd7a1.png)
