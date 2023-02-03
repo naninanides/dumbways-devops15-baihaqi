@@ -78,4 +78,16 @@ menjalankan frontend dan backend menggunakan pm2
 
 menggunakan api
 
-![image](https://user-images.githubusercontent.com/68781074/216386807-429ac026-fca4-42fb-a19e-87a154fdd7a1.png)
+![image](https://user-images.githubusercontent.com/68781074/216550868-eba94439-3eb7-4eb6-8dd8-7d8a520f9e86.png)
+
+sukses mendeploy certif untuk domain
+
+![image](https://user-images.githubusercontent.com/68781074/216558850-4233391d-8371-4082-aecc-118872db1a81.png)
+
+sukses mendeploy certif untuk api
+
+![image](https://user-images.githubusercontent.com/68781074/216559156-a24be572-a4da-44d6-806f-9ad240f64f60.png)
+
+hasil di dalam web browser
+
+![image](https://user-images.githubusercontent.com/68781074/216559258-f60cba05-918e-419d-9598-cc5279805562.png)
