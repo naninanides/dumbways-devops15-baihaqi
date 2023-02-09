@@ -61,4 +61,28 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/217263152-0e76c629-89d2-4e68-b67e-4233a5847af8.png)
 
-12. 
+12. untuk melakukan pull kedalam hub.docker kita bisa terlebih dahulu login menggunakan terminal menggunakan command berikut
+    > docker login -u (username)
+
+![image](https://user-images.githubusercontent.com/68781074/217681774-65b960d8-1741-44e9-b4e4-3c080f886c52.png)
+
+13. setelah itu kita bisa melakukan pull kedalam hub.docker
+
+![image](https://user-images.githubusercontent.com/68781074/217682676-168676dc-e9fd-4a94-93f3-a532bd064b6a.png)
+
+![image](https://user-images.githubusercontent.com/68781074/217682718-914ca237-1a71-4091-a3eb-960bc1c5c68f.png)
+
+13. untuk mengecek apakah aplikasi kita sudah berjalan atau belum, pertama kita cek terlebih dahulu statusnya
+
+![image](https://user-images.githubusercontent.com/68781074/217683243-1bf4409c-4afe-4cff-8160-33572577687b.png)
+
+14. jika sudah status sudah UP semuanya kita sudah bisa mengakses aplikasinya
+
+![image](https://user-images.githubusercontent.com/68781074/217683523-fe467fca-2c99-4c67-82d4-953876634aab.png)
+
+![image](https://user-images.githubusercontent.com/68781074/217683621-5ce53036-4837-4492-91ba-df0ae8296436.png)
+
+
+## reverse proxy & SSL certificate
+
+
