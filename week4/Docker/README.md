@@ -86,3 +86,5 @@
 ## reverse proxy & SSL certificate
 
 
+## Private Registry
+
