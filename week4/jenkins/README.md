@@ -33,4 +33,40 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/218246762-9220d116-58d6-4324-a247-d0249d645a62.png)
 
-9. 
+9. masukan domain jenkinsnya
+
+![6a21daeb](https://user-images.githubusercontent.com/68781074/218247119-5c33d3df-cbec-4dfe-bee4-9676d61edf55.png)
+
+10. jenkins sudah selesai di isntall
+
+![b530d4f2](https://user-images.githubusercontent.com/68781074/218247136-9fdccd7a-03e2-447c-bbb8-fd109f2f5656.png)
+
+## setup jenkins
+
+1. langkah pertama yang kita akan lakukan adalah setup untuk ssh credential jenkinsnya, kita bisa menggenerate ssh keynya terlebih dahulu
+
+![image](https://user-images.githubusercontent.com/68781074/218247186-cf24404c-04ef-4639-9e30-bfc031846c98.png)
+
+2. kita akan mengambil key dari ssh-keygen yang sudah kita generate tadi
+
+![image](https://user-images.githubusercontent.com/68781074/218247215-779e49d5-a14f-416f-859f-0d2f8c99e6e3.png)
+
+3. lalu pada dashboard klik manage jenkins lalu pilih manage credentials dan akan menambahkan credential untuk jenkins
+
+![image](https://user-images.githubusercontent.com/68781074/218247270-3d9aef10-cf4f-43f6-8bfc-e1f0095a969f.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218247286-44b7ccf6-938c-4f63-8516-05adbacfce73.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218247288-5447eb71-0f0f-4c43-8660-d6c4cc536b27.png)
+
+4. klik add credentials
+
+![image](https://user-images.githubusercontent.com/68781074/218247297-9f410af5-3167-4d82-a84d-d7971c72d942.png)
+
+5. lalu kita masukan form untuk new credentialsnya
+
+![image](https://user-images.githubusercontent.com/68781074/218247348-0bcbfda2-7e26-4801-af59-6b4fadc5393e.png)
+
+
+6. 
+
