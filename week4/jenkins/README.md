@@ -35,11 +35,11 @@
 
 9. masukan domain jenkinsnya
 
-![6a21daeb](https://user-images.githubusercontent.com/68781074/218247119-5c33d3df-cbec-4dfe-bee4-9676d61edf55.png)
+![image](https://user-images.githubusercontent.com/68781074/218250540-986ba855-8a3a-4fa6-b22b-d6a78f5c7131.png)
 
 10. jenkins sudah selesai di isntall
 
-![b530d4f2](https://user-images.githubusercontent.com/68781074/218247136-9fdccd7a-03e2-447c-bbb8-fd109f2f5656.png)
+![image](https://user-images.githubusercontent.com/68781074/218250548-fd9a4bc3-fa10-44da-ba6a-aa57e92c0955.png)
 
 ## setup jenkins
 
