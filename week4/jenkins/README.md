@@ -11,7 +11,7 @@
 
 3. atau bisa juga menggunakan scrip untuk menginstall jenkins
 
-![image](https://user-images.githubusercontent.com/68781074/218246018-1fc50733-4f43-4542-a795-235089f64751.png)
+![image](https://user-images.githubusercontent.com/68781074/218249909-4138943d-5607-4164-b4bc-91bb174afdd3.png)
 
 4. lalu kita bisa login kedalam jenkinsnya
 
