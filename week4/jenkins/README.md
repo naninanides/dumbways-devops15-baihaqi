@@ -80,4 +80,64 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/218297075-bb2558ac-2b47-4c4a-a561-973484b8091d.png)
 
-2. di setting general kita centang Github hook trigger 
+2. di setting general kita centang Github hook trigger dan pada pipeline kita pilih pipeline scrip from SCM
+
+![image](https://user-images.githubusercontent.com/68781074/218297155-e122a722-689a-4bbf-8ba6-ac6712ee891f.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218297191-9b8ec4bd-8f2a-4673-8027-983b9bef6bba.png)
+
+
+3. lalu kita siapkan file jenkinsnya
+
+![image](https://user-images.githubusercontent.com/68781074/218297203-9d29fbc3-15f0-48ac-8563-7dfa8fcda6dd.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218297207-03a55122-34d5-40b7-a37d-13577bc73bac.png)
+
+4. karena kita menggunakan notification discord maka ada scrip yang sudah di buat oleh plugin discord pada jenkins dapat di akses melalui
+
+![image](https://user-images.githubusercontent.com/68781074/218297249-c8e6a196-77ab-43a1-a284-e847f6b276ca.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218297257-903579ba-b90d-4145-ac0b-3c0b6fb8a232.png)
+
+5. untuk webhook URL bisa masuk kedalam discord dan chanel yang akan kita taruh bot untuk notificationnya
+
+![image](https://user-images.githubusercontent.com/68781074/218297271-ff3f5626-9e74-48fc-b46e-c70193596921.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218297276-fd9f1b86-87b6-4947-adb0-815b812f89dd.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218297279-cd07a461-d354-4de5-92ee-18fa51e46d35.png)
+
+6. isi saja formnya sesuai yang diinginkan
+
+![image](https://user-images.githubusercontent.com/68781074/218297303-3e033302-f838-4637-8551-b5d05866bac4.png)
+
+7. lalu klik generate saja maka akan keluar scrip untuk notif discordnya
+
+![image](https://user-images.githubusercontent.com/68781074/218297358-85ef6ce9-08a8-4210-9b65-4f2bc85824fa.png)
+
+8. lalu kita tinggal masukan saja di dalam scrip Jenkinsfile
+
+![image](https://user-images.githubusercontent.com/68781074/218297373-8d6e4e3f-fd15-4dc3-99bc-b3a3edf3399f.png)
+
+9. lalu kita atur webhook didalam repository github bertujuan agar jika ada perubahan pada repository dia akan otomatis memproses di jenkinsnya
+
+![image](https://user-images.githubusercontent.com/68781074/218297417-c73096c8-a719-4bd4-981a-fedc59f65bba.png)
+
+10. kalau sudah berhasil maka akan seperti ini
+
+![image](https://user-images.githubusercontent.com/68781074/218297426-45c5bb5b-75ec-464b-a6eb-4a43c89277a6.png)
+
+11. karena sudah selesai untuk mensetting jenkins dan github kita bisa langsung memasukan scrip kedalam Jenkinsfile
+
+![image](https://user-images.githubusercontent.com/68781074/218297460-29e35890-274c-48c4-a51c-22f0978e58aa.png)
+
+12. pipeline sedang berjalan dan notif discord sudah aktif
+
+![image](https://user-images.githubusercontent.com/68781074/218297482-dbfebc69-4df3-4035-a639-bcc42c66caed.png)
+
+13. Notification Discord sudah berjalan dengan baik
+
+![image](https://user-images.githubusercontent.com/68781074/218297525-6d6dcc0f-8f87-4478-9ba5-2b38247c4657.png)
+
+
+
