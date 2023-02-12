@@ -68,5 +68,16 @@
 ![image](https://user-images.githubusercontent.com/68781074/218247348-0bcbfda2-7e26-4801-af59-6b4fadc5393e.png)
 
 
-6. 
+6. lalu selanjutnya kita akan memasukan public key kedalam akun git
 
+![image](https://user-images.githubusercontent.com/68781074/218296833-3e5b757d-bc21-47f5-a32b-1a0dd7a43f3d.png)
+
+![image](https://user-images.githubusercontent.com/68781074/218296859-c88d587e-badc-4b19-b110-ba6e86372ca6.png)
+
+## membuat pipeline
+
+1. untuk membuat pipeline bisa klik new item
+
+![image](https://user-images.githubusercontent.com/68781074/218297075-bb2558ac-2b47-4c4a-a561-973484b8091d.png)
+
+2. di setting general kita centang Github hook trigger 
