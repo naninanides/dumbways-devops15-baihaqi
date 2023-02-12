@@ -139,5 +139,13 @@
 
 ![image](https://user-images.githubusercontent.com/68781074/218297525-6d6dcc0f-8f87-4478-9ba5-2b38247c4657.png)
 
+## push kedalam docker hub
+1. pertama kita harus login kedalam docker hub dulu di dalam terminal
 
+![image](https://user-images.githubusercontent.com/68781074/218297850-52a18390-07bc-4d8d-9650-5f1d08cf595c.png)
 
+2. lalu kita buat scrip untuk docker push seperti ini
+
+![image](https://user-images.githubusercontent.com/68781074/218298011-ebc151fa-6775-47c4-97e2-dc5eec81914f.png)
+
+3. 
