@@ -54,6 +54,20 @@ https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.ht
 
 ![Screen Shot 2023-02-18 at 15 07 36](https://user-images.githubusercontent.com/68781074/219849445-63ce35ef-40b7-4627-aede-50cb34f11b4e.png)
 
-##
+## Ansible untuk Gateway
+
+1. seperti sebelumnya kita tinggal siapkan saja ansible playbook untuk nginx dan juga konfigurasinya
+
+![Screen Shot 2023-02-18 at 17 17 10](https://user-images.githubusercontent.com/68781074/219855037-cd12e2c7-ec00-4706-92d2-bf7e2f75d6fa.png)
+
+![Screen Shot 2023-02-18 at 17 17 41](https://user-images.githubusercontent.com/68781074/219855056-58132115-0088-44e6-98e7-227b0ea0d16b.png)
+
+![Screen Shot 2023-02-18 at 17 17 49](https://user-images.githubusercontent.com/68781074/219855071-490f8518-e984-4f2d-8195-97e166c8042c.png)
+
+2. lalu jalankan seperti biasa ansible playbooknya
+
+![Screen Shot 2023-02-16 at 17 54 57](https://user-images.githubusercontent.com/68781074/219855108-58537c1c-c4e1-4481-8e17-d52790166347.png)
+
+
 
 
