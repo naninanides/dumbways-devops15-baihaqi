@@ -16,9 +16,8 @@
 2. [Manage Database With Backend](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week3/Manage-Database-With-Backend)
 
 ## Week4
-1. 
-
-
+1. [Docker](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week4/Docker)
+2. [Jenkins](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week4/jenkins)
 
 ## Week5
 1. [Terraform](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week5/terraform)
