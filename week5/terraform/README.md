@@ -42,4 +42,30 @@
 
 ## membuat terraform scrip untuk GCP instance
 
-1. 
+1. langkah pertama kita bisa menyiapkan terlebih dahulu untuk terraform scripnya, kurang lebih seperti ini
+
+![Screen Shot 2023-02-18 at 14 12 55](https://user-images.githubusercontent.com/68781074/219846988-31425d35-dee5-4faa-9cc7-12aa0c356fed.png)
+
+![Screen Shot 2023-02-18 at 14 13 06](https://user-images.githubusercontent.com/68781074/219846999-1d15144e-58ba-4024-bed1-e1dcca8dbfab.png)
+
+2. selanjut kita bisa melakukan terraform init dan plan untuk melihat terlebih dahulu apa saja yang akan di tambahkan resourcenya
+
+![Screen Shot 2023-02-18 at 14 13 51](https://user-images.githubusercontent.com/68781074/219847022-a1315a23-326f-4aad-968f-77c3e1568477.png)
+
+![Screen Shot 2023-02-18 at 14 14 02](https://user-images.githubusercontent.com/68781074/219847031-38da0ccb-3639-405a-adcd-fd3373fb063e.png)
+
+![Screen Shot 2023-02-18 at 14 14 26](https://user-images.githubusercontent.com/68781074/219847051-bce817f6-7779-4593-af98-644a0e00316b.png)
+
+![Screen Shot 2023-02-18 at 14 14 32](https://user-images.githubusercontent.com/68781074/219847054-81378100-0262-47d8-afba-73e8125524cf.png)
+
+3. selanjutnya kita tinggal memasukan command terraform apply dan di Yes saja untuk melanjutkan prosesnya
+
+![Screen Shot 2023-02-18 at 14 15 12](https://user-images.githubusercontent.com/68781074/219847076-eff243d6-90c0-41f5-b8af-0feb887ee18b.png)
+
+![Screen Shot 2023-02-18 at 14 15 49](https://user-images.githubusercontent.com/68781074/219847094-0a3b6c35-68cf-4b68-bea9-0268cb8fcbb7.png)
+
+4. instance yang kita buat tadi sudah ada di dalam GCP console dan sudah dapat kita gunakan
+
+![Screen Shot 2023-02-18 at 14 16 42](https://user-images.githubusercontent.com/68781074/219847152-792f5500-b89e-49cd-8e7c-e2f8efff50b1.png)
+
+
