@@ -48,4 +48,12 @@ https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.ht
 
 ![Screen Shot 2023-02-16 at 17 58 21](https://user-images.githubusercontent.com/68781074/219848839-c1e1cb2f-5e35-4d85-8852-bdcf61e2da10.png)
 
-7. 
+7.aplikasi frontend kita sudah jalan on top docker 
+
+![Screen Shot 2023-02-18 at 15 06 08](https://user-images.githubusercontent.com/68781074/219849351-85fb0194-5433-4236-8d2b-3d8812737efe.png)
+
+![Screen Shot 2023-02-18 at 15 07 36](https://user-images.githubusercontent.com/68781074/219849445-63ce35ef-40b7-4627-aede-50cb34f11b4e.png)
+
+##
+
+
