@@ -68,6 +68,15 @@ https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.ht
 
 ![Screen Shot 2023-02-16 at 17 54 57](https://user-images.githubusercontent.com/68781074/219855108-58537c1c-c4e1-4481-8e17-d52790166347.png)
 
+3. bisa kita cek di dalam VM gatewaynya si nginx sudah terinstall atau belum
 
+![Screen Shot 2023-02-18 at 17 23 21](https://user-images.githubusercontent.com/68781074/219855280-6f4d7ce8-5bbc-4064-9fd0-8346ee3b4f94.png)
 
+4. dan untuk konfigurasi reverse networknya
+
+![Screen Shot 2023-02-18 at 17 24 09](https://user-images.githubusercontent.com/68781074/219855317-b7b3ea03-511e-44a9-993b-31d61943ba07.png)
+
+5. kita bisa cek apakah reverse proxynya sudah jalan atau blm
+
+![Screen Shot 2023-02-18 at 17 24 46](https://user-images.githubusercontent.com/68781074/219855337-5d022f6a-cb60-47aa-a01f-0bc8471b1caa.png)
 
