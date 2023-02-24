@@ -25,7 +25,7 @@
 
 ![Screen Shot 2023-02-23 at 21 34 13](https://user-images.githubusercontent.com/68781074/220937250-8522f10b-5a16-478e-b1ad-55923e908ab5.png)
 
-## deploy aplikasi frontend
+## Deploy aplikasi frontend
 
 1. siapkan file .yml untuk deployment dan service frontend
 
@@ -51,9 +51,27 @@
 
 6. disclaimer. karena saya menjalankan minikube ini di dalam localhost maka aplikasi yang terdeploy tidak dapat di akses dari luar karena ip yang digunakan adalah ip private dari localhost saya 
 
-## Deploy Backend dan juga Mysql menggunakan stateless dan statefull deployment
+## Deploy Backend menggunakan stateless
+
+1. untuk mendeploy backend menggunakan staless sebenernya scripnya tidak jauh berbeda dengan frontend
+
+![Screen Shot 2023-02-24 at 7 50 50](https://user-images.githubusercontent.com/68781074/221064973-aa767a9f-25e1-4ac2-85fd-a4a8b4307e67.png)
+
+2. lalu kita tinggal create deployment dan servicenya
+
+![Screen Shot 2023-02-24 at 7 52 04](https://user-images.githubusercontent.com/68781074/221065126-2fa1d158-73fd-46c9-bc97-03549cbd487c.png)
+
+![Screen Shot 2023-02-24 at 7 52 42](https://user-images.githubusercontent.com/68781074/221065214-357ffe57-f1c6-4d58-8928-cc43a2d8ddd5.png)
 
 
+3. lalu langsung kita jalankan saja dengan minikube service
 
+![Screen Shot 2023-02-24 at 7 53 05](https://user-images.githubusercontent.com/68781074/221065273-24f67f16-4954-411b-abae-42ba1189464c.png)
+
+
+![Screen Shot 2023-02-24 at 7 53 20](https://user-images.githubusercontent.com/68781074/221065292-19d876b3-217b-494a-8101-bebc5a7e3767.png)
+
+
+## Deploy Mysql menggunakan Statefull
 
 
