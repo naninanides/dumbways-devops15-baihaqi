@@ -74,4 +74,34 @@
 
 ## Deploy Mysql menggunakan Statefull
 
+1. untuk membuat database di dalam kubernetes kita bisa terlebih dahulu melakukan encrypt untuk password, username dan name database kita menggunakan perintah sebagai berikut.
 
+> kubectl create secret generic mysql-root-pass --from-literal=password=katasandi123
+
+> kubectl create secret generic mysql-user-pass --from-literal=bhq --from-literal=password=katasandi
+
+> kubectl create secret generic mysql-db-url --from-literal=database=literature
+
+![Screen Shot 2023-02-24 at 8 18 25](https://user-images.githubusercontent.com/68781074/221068378-363a1e5b-4631-4867-af00-15acfb24d5bf.png)
+
+2. selanjutnya kita bisa membuat untuk scrip database kita, karena kita akan membuat sebuah database yang membutuhkan storage untuk memuat data kita scrip yang kita bikin ini adalah statefull scrip
+
+![Screen Shot 2023-02-21 at 21 04 20](https://user-images.githubusercontent.com/68781074/221068558-b902d0aa-a668-4676-b5d8-afde0f3cec3c.png)
+
+![Screen Shot 2023-02-21 at 21 04 24](https://user-images.githubusercontent.com/68781074/221068580-a6d06dc1-74bf-408b-9cd4-5e7bedfb4522.png)
+
+![Screen Shot 2023-02-21 at 21 04 27](https://user-images.githubusercontent.com/68781074/221068609-2b10d521-d4b8-40f6-8803-d25799d95137.png)
+
+3. dalam scrip yang saya buat, untuk persistent volume dan volume claim langsung saya satukan di dalam scrip untuk deployment dan service. kita bisa langsung menjalankan scripnya
+
+![Screen Shot 2023-02-24 at 8 22 14](https://user-images.githubusercontent.com/68781074/221068856-f38a5cf6-950f-45e8-ae8b-36c691c38819.png)
+
+![Screen Shot 2023-02-24 at 8 24 16](https://user-images.githubusercontent.com/68781074/221069128-d08103e9-037e-4caa-859b-9516ac9a4efd.png)
+
+4. untuk mengecek apakah database kita sudah jalan atau belum, kita bisa melakukan command sebagai berikut.
+
+> kubectl exec -i -t mysql-deployment-85d794cfc4-f2dz2 /bin/bash
+
+![Screen Shot 2023-02-24 at 8 26 39](https://user-images.githubusercontent.com/68781074/221069427-35055fdf-10ef-45e5-aff5-fa05e5bce848.png)
+
+![Screen Shot 2023-02-24 at 8 26 53](https://user-images.githubusercontent.com/68781074/221069463-0940619d-860c-4b21-b8f7-2c9e549999b0.png)
