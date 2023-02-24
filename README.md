@@ -22,3 +22,7 @@
 ## Week5
 1. [Terraform](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week5/terraform)
 2. [Ansible](https://github.com/naninanides/dumbways-devops15-baihaqi/blob/main/week5/Ansible/README.md)
+
+
+## Week6
+1. [Kubernetes](https://github.com/naninanides/dumbways-devops15-baihaqi/tree/main/week6/kubernetes)
